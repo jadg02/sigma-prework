@@ -1,5 +1,4 @@
 import datetime
-# update
 
 date_input = input('Enter a date (dd-mm-yyyy): ')
 
